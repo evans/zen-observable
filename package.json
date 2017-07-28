@@ -1,9 +1,9 @@
 {
-  "name": "zen-observable",
+  "name": "zen-observable-exported",
   "version": "0.5.2",
-  "repository": "zenparsing/zen-observable",
+  "repository": "evanshauser/zen-observable",
   "description": "An Implementation of ES Observables",
-  "homepage": "https://github.com/zenparsing/zen-observable",
+  "homepage": "https://github.com/evanshauser/zen-observable",
   "license": "MIT",
   "main": "index.js",
   "module": "default.js",

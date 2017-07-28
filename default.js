@@ -1,1 +1,1 @@
-module.exports = require("./zen-observable.js").Observable;
+export * from "./src/Observable.js";
