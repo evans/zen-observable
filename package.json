@@ -1,5 +1,5 @@
 {
-  "name": "zen-observable-exported",
+  "name": "zen-observable",
   "version": "0.5.2",
   "repository": "evanshauser/zen-observable",
   "description": "An Implementation of ES Observables",
