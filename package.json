@@ -1,6 +1,6 @@
 {
   "name": "zen-observable-exported",
-  "version": "0.5.2",
+  "version": "0.5.3",
   "repository": "evanshauser/zen-observable",
   "description": "An Implementation of ES Observables",
   "homepage": "https://github.com/evanshauser/zen-observable",
